@@ -25,13 +25,13 @@ Technologies used
 4. Makefile for compilation
 
 
-Getting started:
+Getting started
 ---------------
-
 Compile and run
 ---------------
 
 make
+
 ./ExpenseTracker
 
 
