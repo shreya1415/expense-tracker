@@ -1,5 +1,7 @@
 Personal Expense Tracker (C++)
 ------------------------------
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 
 A command-line application to track your daily expenses. Add, update, delete and view expenses with date-based, expense-based sorting and monthly summaries. The code is modular, tested and built using C++, STL and Google Test.
 
